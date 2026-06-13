@@ -1,5 +1,3 @@
-# tca_fx_execution
-
 # FX Transaction Cost Analysis (TCA)
 
 A transaction-cost analysis framework for FX order execution. It compares
